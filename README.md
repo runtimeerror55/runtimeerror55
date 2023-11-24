@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is aakash deep and I'm a front-end developer, from india</h2>
 
 ###
 
@@ -41,8 +41,8 @@
 <br clear="both">
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=runtimeerror55&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=runtimeerror55&theme=dark&mode=weekly&card_width=350" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=runtimeerror55&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="100%" alt="languages graph"  />
 </div>
 
 
