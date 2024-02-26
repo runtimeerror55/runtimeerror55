@@ -3,7 +3,7 @@
 <div  align="center">-front end developer</div>
 <div  align="center">currently building projects</div>
 <div>
-<h3>Languages and tools used so far</h3>
+<h4>Languages and tools used so far</h4>
 <ul>
   <li>html</li>
   <li>css</li>
@@ -19,7 +19,7 @@
 
   <h3>contact</h3>
   <ul>
-    <li>runtimeerror55@gmail.com</li>
+    <li><b>Gmail:</b> runtimeerror55@gmail.com</li>
  </ul>
   
 <br clear="both">
