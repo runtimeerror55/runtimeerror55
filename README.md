@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is Aakash</h1>
 
-<div  align="center">-front end developer</div>
+<div  align="center">front end developer</div>
 <div  align="center">currently building projects</div>
 <div>
 <h3>Languages and tools used so far</h3>
