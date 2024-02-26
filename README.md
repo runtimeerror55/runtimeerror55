@@ -1,9 +1,9 @@
-<h2 align="center">Hi 👋, This is Aakash</h2>
+<h1 align="center">Hi 👋, This is Aakash</h1>
 
 <div  align="center">-front end developer</div>
 <div  align="center">currently building projects</div>
 <div>
-<h4>Languages and tools used so far</h4>
+<h3>Languages and tools used so far</h3>
 <ul>
   <li>html</li>
   <li>css</li>
@@ -17,7 +17,7 @@
 </ul>
   </div>
 
-  <h4>contact</h4>
+  <h3>contact</h3>
   <ul>
     <li><b>Gmail:</b> runtimeerror55@gmail.com</li>
  </ul>
