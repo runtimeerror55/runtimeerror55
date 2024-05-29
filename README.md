@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, This is Aakash</h1>
 
-<div  align="center">front end developer</div>
-<div  align="center">currently building projects</div>
+
+<div >I love building products that truly impact the humanity and make the world a better place to live.
+I launched two successful web apps with close to 700 visitors in first 25 days of launch. It includes a complete modern falling blocks game called <b>M-tris</b>, a productivity tool called <b>minitype: The all in one typing app</b>, which helps people improve their typing skills.</div>
 <div>
 <h3>Languages and tools used so far</h3>
 <ul>
