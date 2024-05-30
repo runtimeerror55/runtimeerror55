@@ -27,6 +27,17 @@ I specialize in transforming creative ideas into functional digital experiences.
   Built with React and CSS Modules, Minitype offers beginner, speed, and practice modes,
   detailed performance stats, various timers, and customizable text effects.
   The app attracted 250 visitors within 25 days of its launch and received highly positive reviews.</p>
+  <ul>
+<li>three main modes beginner mode, speed mode, practice mode.</li>
+<li>beginner mode has lessons for alphabets, symbols, numbers, and. other special characters.</li>
+<li>speed mode has different sets of words with different sizes.</li>
+<li>stats for each set, each timer in a set and each word in a set.</li>
+<li>practice mode allows users to filter words by average speed and practice them individually.</li>
+<li>multiple timers like 15s,30s,60s.</li>
+<li>multiple text effects.</li>
+<li>multiple themes.</li>
+<li>multiple sound effects on keypress.</li>
+</ul>
 <h3>Languages and tools used so far</h3>
 <ul>
   <li>html</li>
