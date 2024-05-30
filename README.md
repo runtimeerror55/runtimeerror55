@@ -4,7 +4,7 @@
 <h3>About Me</h3>
 I'm a passionate front-end developer with a keen eye for creating interactive, responsive, and
 visually appealing web applications.I love building products that can positively impact humanity and make the world a better place to live.With a strong command over HTML, CSS, JavaScript, React
-I specialize in transforming creative ideas into functional digital experiences. <b>I launched two successful products(web apps) that are innovative, usable, helpful to humanity and recieved extremely positive reviews from the users. Also shipped more features based on user feedback.</b>.
+I specialize in transforming creative ideas into functional digital experiences. <b>I launched two successful products(web apps) that are innovative, usable, helpful to humanity and recieved extremely positive reviews from the users. Also shipped more features based on user feedback after the launch.</b>.
 
 <h3><a href="https://mtris.in/">M-Tris</a></h3>
 <p>Designed and developed a complete web-based Modern falling blocks game. A remake from scratch of one of the best games in the world.
