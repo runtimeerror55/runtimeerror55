@@ -6,14 +6,24 @@ I'm a passionate front-end developer with a keen eye for creating interactive, r
 visually appealing web applications.I love building products that can positively impact humanity and make the world a better place to live.With a strong command over HTML, CSS, JavaScript, React
 I specialize in transforming creative ideas into functional digital experiences. <b>I succesfully launched two products(web apps) that are innovative, usable, helpful to humanity and recieved extremely positive reviews from the users</b>.
 
-
-<h3>Best work</h3>
-<p><a href="https://mtris.in/">M-Tris:</a> A modern web-based remake of the classic falling blocks game.
+<h3><a href="https://mtris.in/">M-Tris</a></h3>
+<p> A modern web-based remake of the classic falling blocks game.
   Designed and developed using React, CSS Modules, and Howler.js, M-Tris features
   multiple challenge levels, diverse in-game controls, and responsive design.
-  It achieved 450 visitors in its first 25 days and was ranked in the top 3 on Peerlist's Project of the Week.</p>
+  It achieved 450 visitors in its first 25 days and was ranked in the top 3 on Peerlist's Project of the Week.Key features of M-Tris include:</p>
+  <ul>
+  <li>Multiple challenges and difficulty levels.</li>
+  <li>Multiple In game controls(gamepad, keyboard, on screen controls).</li>
+  <li>Multiple navigation controls (gamepad, keyboard, mouse, touch).</li>
+  <li>Multiple players(split screen, up to 2 players, can be extended to. any number of players).</li>
+  <li>Multiple skins, sound effects, smooth animations.</li>
+  <li>60 fps locked irrespective of the device refresh rate.</li>
+  <li>Responsive design adapts to any screen size.</li>
+  <li>fun to play with friends, colleagues, family or alone.</li>
 
-<p><a href="https://minitype.in/">Minitype:</a> A comprehensive typing web app aimed at enhancing typing skills for all levels.
+</ul>
+<a href="https://minitype.in/">Minitype:</a>
+<p> A comprehensive typing web app aimed at enhancing typing skills for all levels.
   Built with React and CSS Modules, Minitype offers beginner, speed, and practice modes,
   detailed performance stats, various timers, and customizable text effects.
   The app attracted 250 visitors within 25 days of its launch and received highly positive reviews.</p>
