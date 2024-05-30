@@ -4,7 +4,7 @@
 <h3>About Me</h3>
 I'm a passionate front-end developer with a keen eye for creating interactive, responsive, and
 visually appealing web applications.I love building products that can positively impact humanity and make the world a better place to live.With a strong command over HTML, CSS, JavaScript, React
-I specialize in transforming creative ideas into functional digital experiences. I succesfully launched two products(web apps) that are innovative, usable, helpful to humanity and recieved extremely positive reviews from the users.
+I specialize in transforming creative ideas into functional digital experiences. <b>I succesfully launched two products(web apps) that are innovative, usable, helpful to humanity and recieved extremely positive reviews from the users</b>.
 
 
 <h3>Best work</h3>
