@@ -8,7 +8,7 @@ I specialize in transforming creative ideas into functional digital experiences.
 
 <h3><a href="https://mtris.in/">M-Tris</a></h3>
 <p>Designed and developed a complete web-based Modern falling blocks game. A remake from scratch of one of the best games in the world.
-  It achieved 450 visitors in its first 25 days. It received overwhelmingly positive response from the users and came top 3 in peerlist project of the week.Key features of M-Tris include:</p>
+  It achieved 450 visitors in its first 25 days. It received overwhelmingly positive response from the users and came top 3 in peerlist project of the week. Key features of M-Tris include:</p>
   <ul>
   <li>Multiple challenges and difficulty levels.</li>
   <li>Multiple In game controls(gamepad, keyboard, on screen controls).</li>
@@ -23,7 +23,7 @@ I specialize in transforming creative ideas into functional digital experiences.
 <h3><a href="https://minitype.in/">Minitype</a></h3>
 
 <p> Designed and Developed a responsive all in one typing web app aimed at improving typing skills for users of all levels.
-  The app attracted 250 visitors within 25 days of its launch and received highly positive reviews.Key features of Minitype include:</p>
+  The app attracted 250 visitors within 25 days of its launch and received highly positive reviews. Key features of Minitype include:</p>
   <ul>
 <li>three main modes beginner mode, speed mode, practice mode.</li>
 <li>beginner mode has lessons for alphabets, symbols, numbers, and. other special characters.</li>
