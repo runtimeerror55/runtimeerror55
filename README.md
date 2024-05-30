@@ -1,9 +1,22 @@
 <h1 align="center">Hi 👋, This is Aakash</h1>
 
 
-<div >I love building products that truly impact the humanity and make the world a better place to live.
-I launched two successful web apps with close to 700 visitors in first 25 days of launch. It includes a complete modern falling blocks game called <b>M-tris</b>, a productivity tool called <b>minitype: The all in one typing app</b>, which helps people improve their typing skills.</div>
-<div>
+<h3>About Me</h3>
+Hi, I'm Aakash, a passionate front-end developer with a keen eye for creating interactive, responsive, and
+visually appealing web applications. With a strong command over HTML, CSS, JavaScript, React, Express, MongoDB, Mongoose, and Vercel,
+I specialize in transforming creative ideas into functional digital experiences.
+
+
+<h3>Key Projects:</h3>
+<p>M-Tris: A modern web-based remake of the classic falling blocks game.
+  Designed and developed using React, CSS Modules, and Howler.js, M-Tris features
+  multiple challenge levels, diverse in-game controls, and responsive design.
+  It achieved 450 visitors in its first 25 days and was ranked in the top 3 on Peerlist's Project of the Week.</p>
+
+<p>Minitype: A comprehensive typing web app aimed at enhancing typing skills for all levels.
+  Built with React and CSS Modules, Minitype offers beginner, speed, and practice modes,
+  detailed performance stats, various timers, and customizable text effects.
+  The app attracted 250 visitors within 25 days of its launch and received highly positive reviews.</p>
 <h3>Languages and tools used so far</h3>
 <ul>
   <li>html</li>
