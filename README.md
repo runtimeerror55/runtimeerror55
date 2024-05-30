@@ -7,10 +7,8 @@ visually appealing web applications.I love building products that can positively
 I specialize in transforming creative ideas into functional digital experiences. <b>I succesfully launched two products(web apps) that are innovative, usable, helpful to humanity and recieved extremely positive reviews from the users</b>.
 
 <h3><a href="https://mtris.in/">M-Tris</a></h3>
-<p> A modern web-based remake of the classic falling blocks game.
-  Designed and developed using React, CSS Modules, and Howler.js, M-Tris features
-  multiple challenge levels, diverse in-game controls, and responsive design.
-  It achieved 450 visitors in its first 25 days and was ranked in the top 3 on Peerlist's Project of the Week.Key features of M-Tris include:</p>
+<p>Designed and developed a complete web-based Modern falling blocks game. A remake from scratch of one of the best games in the world.
+It achieved 450 visitors in its first 25 days and was ranked in the top 3 on Peerlist's Project of the Week. Key features of M-Tris include:</p>
   <ul>
   <li>Multiple challenges and difficulty levels.</li>
   <li>Multiple In game controls(gamepad, keyboard, on screen controls).</li>
@@ -23,9 +21,7 @@ I specialize in transforming creative ideas into functional digital experiences.
 
 </ul>
 <a href="https://minitype.in/">Minitype:</a>
-<p> A comprehensive typing web app aimed at enhancing typing skills for all levels.
-  Built with React and CSS Modules, Minitype offers beginner, speed, and practice modes,
-  detailed performance stats, various timers, and customizable text effects.
+<p> Designed and Developed a responsive all in one typing web app aimed at improving typing skills for users of all levels.
   The app attracted 250 visitors within 25 days of its launch and received highly positive reviews.</p>
   <ul>
 <li>three main modes beginner mode, speed mode, practice mode.</li>
