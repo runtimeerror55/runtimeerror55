@@ -2,18 +2,18 @@
 
 
 <h3>About Me</h3>
-Hi, I'm Aakash, a passionate front-end developer with a keen eye for creating interactive, responsive, and
-visually appealing web applications. With a strong command over HTML, CSS, JavaScript, React, Express, MongoDB, Mongoose, and Vercel,
-I specialize in transforming creative ideas into functional digital experiences.
+I'm a passionate front-end developer with a keen eye for creating interactive, responsive, and
+visually appealing web applications.I love building products that can positively impact humanity and make the world a better place to live.With a strong command over HTML, CSS, JavaScript, React
+I specialize in transforming creative ideas into functional digital experiences. I succesfully launched two products(web apps) that are innovative, usable, helpful to humanity and recieved extremely positive reviews from the users.
 
 
-<h3>Key Projects:</h3>
-<p>M-Tris: A modern web-based remake of the classic falling blocks game.
+<h3>Best work</h3>
+<p><a href="https://mtris.in/">M-Tris:</a> A modern web-based remake of the classic falling blocks game.
   Designed and developed using React, CSS Modules, and Howler.js, M-Tris features
   multiple challenge levels, diverse in-game controls, and responsive design.
   It achieved 450 visitors in its first 25 days and was ranked in the top 3 on Peerlist's Project of the Week.</p>
 
-<p>Minitype: A comprehensive typing web app aimed at enhancing typing skills for all levels.
+<p><a href="https://minitype.in/">Minitype:</a> A comprehensive typing web app aimed at enhancing typing skills for all levels.
   Built with React and CSS Modules, Minitype offers beginner, speed, and practice modes,
   detailed performance stats, various timers, and customizable text effects.
   The app attracted 250 visitors within 25 days of its launch and received highly positive reviews.</p>
