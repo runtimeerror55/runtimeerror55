@@ -23,7 +23,7 @@ I specialize in transforming creative ideas into functional digital experiences.
 <h3><a href="https://minitype.in/">Minitype</a></h3>
 
 <p> Designed and Developed a responsive all in one typing web app aimed at improving typing skills for users of all levels.
-  The app attracted 250 visitors within 25 days of its launch and received highly positive reviews.</p>
+  The app attracted 250 visitors within 25 days of its launch and received highly positive reviews.Key features of Minitype include:</p>
   <ul>
 <li>three main modes beginner mode, speed mode, practice mode.</li>
 <li>beginner mode has lessons for alphabets, symbols, numbers, and. other special characters.</li>
