@@ -6,7 +6,7 @@ I'm a passionate front-end developer with a keen eye for creating interactive, r
 visually appealing web applications.I love building products that can positively impact humanity and make the world a better place to live.With a strong command over HTML, CSS, JavaScript, React
 I specialize in transforming creative ideas into functional digital experiences. <b>I launched two successful products(web apps) that are innovative, usable, helpful to humanity and recieved extremely positive reviews from the users. Also shipped more features based on user feedback after the launch.</b>.
 
-<h3><a href="https://mtris.in/">M-Tris</a></h3>
+<h4><a href="https://mtris.in/">M-Tris</a> (currently private repository)</h4>
 <p>Designed and developed a complete web-based Modern falling blocks game. A remake from scratch of one of the best games in the world.
   It achieved 450 visitors in its first 25 days. It received overwhelmingly positive response from the users and came top 3 in <a href="https://peerlist.io/runtimeerror55/project/mtris">peerlist project of the week</a>. Key features of M-Tris include:</p>
   <ul>
@@ -20,7 +20,7 @@ I specialize in transforming creative ideas into functional digital experiences.
   <li>fun to play with friends, colleagues, family or alone.</li>
 
 </ul>
-<h3><a href="https://minitype.in/">Minitype</a></h3>
+<h4><a href="https://minitype.in/">Minitype</a> (currently private repository)</h4>
 
 <p> Designed and Developed a responsive all in one typing web app aimed at improving typing skills for users of all levels.
   The app attracted 250 visitors within 25 days of its launch and received highly positive reviews. Key features of Minitype include:</p>
@@ -34,6 +34,32 @@ I specialize in transforming creative ideas into functional digital experiences.
 <li>multiple text effects.</li>
 <li>multiple themes.</li>
 <li>multiple sound effects on keypress.</li>
+</ul>
+
+I also have a bit of backend knowledge in express.js, mongoose, mongodb where i have created the following applications
+<h4><a href="https://ecommerce-frontend-one-tawny.vercel.app">Electrokart</a></h4>
+<p>Designed and developed a responsive Electronics shopping web application with essential 
+features for seamless shopping experience. It has following features:</p>
+<ul>
+  <li>Search products using title from any page for quick access.</li>
+  <li>Dynamic filter options based on products.</li>
+  <li>Pagination for improved navigation of product listings.</li>
+  <li>Add and delete products from cart.</li>
+  <li>Manage addresses with options to add, edit, and delete addresses.</li>
+  <li>email based authentication.</li>
+  <li>Razorpay payment gateway integration.</li>
+  <li>Orders history and order details</li>
+</ul>
+<h4><a href="https://techtotube-frontend.vercel.app">Techtotube</a></h4>
+<p>Designed and Developed a responsive tech reviews video library web application. It includes following features</p>
+<ul>
+  <li>Infinite scrolling.</li>
+  <li>filter videos by predefined tags.</li>
+  <li>create, delete playlists.</li>
+  <li>add , delete videos from playlist.</li>
+  <li>watch history.</li>
+  <li>add, delete video from watch later.</li>
+  <li>email based authentication using jwt.</li>
 </ul>
 <h3>Languages and tools used so far</h3>
 <ul>
